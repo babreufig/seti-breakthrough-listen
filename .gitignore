@@ -1,0 +1,4 @@
+test/
+train/
+train*
+.ipynb_checkpoints/
