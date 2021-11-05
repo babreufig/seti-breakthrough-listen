@@ -4,3 +4,6 @@ train*
 .ipynb_checkpoints/
 old_leaky_data/
 sample_submission.csv
+checkpoint/
+log.log
+referenceNotebooks/
