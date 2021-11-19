@@ -1,6 +1,6 @@
 test/
 train/
-train*
+train_labels*
 .ipynb_checkpoints/
 old_leaky_data/
 sample_submission.csv
