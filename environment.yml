@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - numpy
+  - tqdm
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pytorch
+  - torchvision
+  - efficientnet-pytorch
+  - albumentations
