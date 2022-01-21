@@ -47,7 +47,7 @@ When trying to execute this notebook, one will often face the problem that CUDA 
 
 First, you can reduce the batch size in the notebook.
 
-Second, you can set max_split_size_mb defining it in the `PYTORCH_CUDA_ALLOC_CONF` environment variable. To set this for example to 64, one can define:
+Second, you can set max_split_size_mb defining it in the `PYTORCH_CUDA_ALLOC_CONF` environment variable. To set this for example to 64 MB, one can define:
 
 ```
 PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:64
